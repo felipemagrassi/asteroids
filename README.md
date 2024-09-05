@@ -1,5 +1,5 @@
 
-just a asteroid game with pygame
+just an asteroid game with pygame
 
 ## running
 
